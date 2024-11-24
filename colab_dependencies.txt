@@ -1,0 +1,9 @@
+# !pip install PyPDF2
+# !pip install pypdf
+# !pip install gradio
+# !pip install faiss-cpu
+# !pip install langchain sentence_transformers langchain-huggingface
+# !pip install langchain_community
+# !pip install langchain-text-splitters
+# !pip install unsloth
+# !pip uninstall unsloth -y && pip install --upgrade --no-cache-dir "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
